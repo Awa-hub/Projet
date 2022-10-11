@@ -1,0 +1,14 @@
+body
+{
+    background-color: gray;
+}
+
+.success
+{
+    background: green;
+}
+
+.danger
+{
+    background: red;
+}
